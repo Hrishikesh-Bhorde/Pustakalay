@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"The Art",
+        "price":0,
+        "category":"Free",
+        "image_url":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715411996~exp=1715415596~hmac=b3d380ce37834854e9000522403ee386259175ef30e58925ea95462529a2018c&w=740"
+    },
+    {
+        "id":2,
+        "name":"History Book",
+        "title":"History of England",
+        "price":100,
+        "category":"History",
+        "image_url":"https://rukminim2.flixcart.com/image/850/1000/xif0q/book/x/5/f/history-of-england-original-imagqmygjycvyygc.jpeg?q=90&crop=false"
+    },
+    {
+        "id":3,
+        "name":"Biography",
+        "title":"Wings of Fire",
+        "price":200,
+        "category":"Motivational",
+        "image_url":"https://books.google.co.in/books/content?id=c3qmIZtWUjAC&pg=PA5&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U0M-7L3elOSlyTroC2dMHlNTsU7XQ&w=1280"
+    },
+    {
+        "id":4,
+        "name":"Story Book",
+        "title":"End is near",
+        "price":0,
+        "category":"Free",
+        "image_url":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715411996~exp=1715415596~hmac=b3d380ce37834854e9000522403ee386259175ef30e58925ea95462529a2018c&w=740"
+    },
+    {
+        "id":5,
+        "name":"Autobiography",
+        "title":"Charles James",
+        "price":0,
+        "category":"Free",
+        "image_url":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715411996~exp=1715415596~hmac=b3d380ce37834854e9000522403ee386259175ef30e58925ea95462529a2018c&w=740"
+    },
+    {
+        "id":7,
+        "name":"Sports Book",
+        "title":"Straight Drive",
+        "price":0,
+        "category":"Free",
+        "image_url":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1715411996~exp=1715415596~hmac=b3d380ce37834854e9000522403ee386259175ef30e58925ea95462529a2018c&w=740"
+    },
+    {
+        "id":8,
+        "name":"Story Book",
+        "title":"A Man Called Ove",
+        "price":0,
+        "category":"Free",
+        "image_url":"https://m.media-amazon.com/images/I/81DXIOk9glL._SY466_.jpg"
+    },
+    {
+        "id":9,
+        "name":"Informative Book",
+        "title":"You Can",
+        "price":10,
+        "category":"Motivational",
+        "image_url":"https://m.media-amazon.com/images/I/41AnbvGOT3L._SY445_SX342_.jpg"
+    }
+]
